@@ -1,1 +1,2 @@
 This is first line and first commit
+This is second line and changed in remote
